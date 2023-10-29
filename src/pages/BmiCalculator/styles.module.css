@@ -1,0 +1,17 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: auto;
+    width: 60%;
+    max-width: 820px;
+}
+
+.weightContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.submitButton {
+    width: 60px;
+}
